@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BW8d0uLZ1HP6D3zGsgr/IihGq8/xdqg0PtNqjLs2cL4=",
+  "Source": "IB_Crude_Web_API",
+  "BasePath": "_content/IB_Crude_Web_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
